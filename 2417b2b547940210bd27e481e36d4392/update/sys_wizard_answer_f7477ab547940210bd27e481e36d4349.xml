@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Cserver</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Cserver</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Base Configuration Item" name="Base Configuration Item">822c08acd9313110cedf7dffddb48f8c</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-12 14:33:39</sys_created_on>
+        <sys_id>f7477ab547940210bd27e481e36d4349</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cserver</sys_name>
+        <sys_package display_value="CserverApp" source="x_131797_cserver_0">2417b2b547940210bd27e481e36d4392</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CserverApp">2417b2b547940210bd27e481e36d4392</sys_scope>
+        <sys_update_name>sys_wizard_answer_f7477ab547940210bd27e481e36d4349</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-12 14:33:39</sys_updated_on>
+        <table/>
+        <target_url>x_131797_cserver_0_cserver.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

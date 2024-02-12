@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability display_value="Public">9ac73af59194021006d70ff2878b0536</applicability>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-02-12 14:35:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>dec73af509940210b71de2832683e737</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="CserverApp" source="x_131797_cserver_0">2417b2b547940210bd27e481e36d4392</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CserverApp">2417b2b547940210bd27e481e36d4392</sys_scope>
+        <sys_update_name>m2m_app_config_theme_dec73af509940210b71de2832683e737</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-02-12 14:35:45</sys_updated_on>
+        <theme display_value="Light Theme">5ec73af5e6940210d74120885166ce36</theme>
+        <ux_app_configuration display_value="Custom Portal App Config">cec7f6f547940210bd27e481e36d43be</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

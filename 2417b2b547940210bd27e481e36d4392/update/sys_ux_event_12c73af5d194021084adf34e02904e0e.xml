@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>CONTENT_UPDATED_RELAY_5ac73af5ef94021097ca08bafdb5442f</event_name>
+        <explicit_api_name/>
+        <interfaces/>
+        <label>Content Updated Relay</label>
+        <props>[{"name":"params","label":"Optionals Parameters","fieldType":"json","valueType":"string"}]</props>
+        <required_translations/>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-02-12 14:35:46</sys_created_on>
+        <sys_id>12c73af5d194021084adf34e02904e0e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Content Updated Relay</sys_name>
+        <sys_package display_value="CserverApp" source="x_131797_cserver_0">2417b2b547940210bd27e481e36d4392</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CserverApp">2417b2b547940210bd27e481e36d4392</sys_scope>
+        <sys_update_name>sys_ux_event_12c73af5d194021084adf34e02904e0e</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-02-12 14:35:46</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="delete_multiple" query="documentkey=12c73af5d194021084adf34e02904e0e"/>
+</record_update>
