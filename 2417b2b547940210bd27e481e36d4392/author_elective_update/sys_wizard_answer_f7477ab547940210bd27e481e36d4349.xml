@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Cserver</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Cserver</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Base Configuration Item" name="Base Configuration Item">822c08acd9313110cedf7dffddb48f8c</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-12 14:33:39</sys_created_on>
+        <sys_id>f7477ab547940210bd27e481e36d4349</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cserver</sys_name>
+        <sys_package display_value="CserverApp" source="x_131797_cserver_0">2417b2b547940210bd27e481e36d4392</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CserverApp">2417b2b547940210bd27e481e36d4392</sys_scope>
+        <sys_update_name>sys_wizard_answer_f7477ab547940210bd27e481e36d4349</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-12 14:33:39</sys_updated_on>
+        <table/>
+        <target_url>x_131797_cserver_0_cserver.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CserverApp">2417b2b547940210bd27e481e36d4392</application>
+        <file_path/>
+        <instance_id>3876ed28db4a71d4caf99027c596197b</instance_id>
+        <instance_name>dev190685</instance_name>
+        <name>sys_wizard_answer_f7477ab547940210bd27e481e36d4349</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Cserver</answer><button_label/><dependent_value/><element/><name>Cserver</name><next_question/><order>100</order><payload_name/><question display_value="Base Configuration Item" name="Base Configuration Item">822c08acd9313110cedf7dffddb48f8c</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-12 14:33:39</sys_created_on><sys_id>f7477ab547940210bd27e481e36d4349</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Cserver</sys_name><sys_package display_value="CserverApp" source="x_131797_cserver_0">2417b2b547940210bd27e481e36d4392</sys_package><sys_policy/><sys_scope display_value="CserverApp">2417b2b547940210bd27e481e36d4392</sys_scope><sys_update_name>sys_wizard_answer_f7477ab547940210bd27e481e36d4349</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-12 14:33:39</sys_updated_on><table/><target_url>x_131797_cserver_0_cserver.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>347816341</payload_hash>
+        <record_name>Cserver</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-19 14:09:38</sys_created_on>
+        <sys_id>e4f4f68447a00210bd27e481e36d43bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18dc1b36f430000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-19 14:09:38</sys_updated_on>
+        <type>Answer</type>
+        <update_guid>a4f4f684ffa00210b0b54cda5a3333bb</update_guid>
+        <update_guid_history>a4f4f684ffa00210b0b54cda5a3333bb:347816341</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-19 14:09:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>0460e0f8539c4cf88125e123959a39e4</sys_id>
+        <sys_metadata>f7477ab547940210bd27e481e36d4349</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cserver</sys_name>
+        <sys_package display_value="CserverApp" source="x_131797_cserver_0">2417b2b547940210bd27e481e36d4392</sys_package>
+        <sys_parent display_value="Base Configuration Item">822c08acd9313110cedf7dffddb48f8c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="CserverApp">2417b2b547940210bd27e481e36d4392</sys_scope>
+        <sys_scope_delete display_value="">479334d5d79e4009b705e848378cf471</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_f7477ab547940210bd27e481e36d4349</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_f7477ab547940210bd27e481e36d4349">e4f4f68447a00210bd27e481e36d43bb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-19 14:09:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
