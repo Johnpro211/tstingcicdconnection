@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-12 14:58:10</sys_created_on>
+        <sys_id>cbec3e7d47940210bd27e481e36d43a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_131797_cserver_0_capplication.x_131797_cserver_0.admin</sys_name>
+        <sys_package display_value="CserverApp" source="x_131797_cserver_0">2417b2b547940210bd27e481e36d4392</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CserverApp">2417b2b547940210bd27e481e36d4392</sys_scope>
+        <sys_security_acl display_value="x_131797_cserver_0_capplication">83ec3e7d47940210bd27e481e36d43a3</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_cbec3e7d47940210bd27e481e36d43a5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-12 14:58:10</sys_updated_on>
+        <sys_user_role display_value="x_131797_cserver_0.admin" name="x_131797_cserver_0.admin">3417b2b547940210bd27e481e36d439a</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CserverApp">2417b2b547940210bd27e481e36d4392</application>
+        <file_path/>
+        <instance_id>3876ed28db4a71d4caf99027c596197b</instance_id>
+        <instance_name>dev190685</instance_name>
+        <name>sys_security_acl_role_cbec3e7d47940210bd27e481e36d43a5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-12 14:58:10</sys_created_on><sys_id>cbec3e7d47940210bd27e481e36d43a5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_131797_cserver_0_capplication.x_131797_cserver_0.admin</sys_name><sys_package display_value="CserverApp" source="x_131797_cserver_0">2417b2b547940210bd27e481e36d4392</sys_package><sys_policy/><sys_scope display_value="CserverApp">2417b2b547940210bd27e481e36d4392</sys_scope><sys_security_acl display_value="x_131797_cserver_0_capplication">83ec3e7d47940210bd27e481e36d43a3</sys_security_acl><sys_update_name>sys_security_acl_role_cbec3e7d47940210bd27e481e36d43a5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-12 14:58:10</sys_updated_on><sys_user_role display_value="x_131797_cserver_0.admin" name="x_131797_cserver_0.admin">3417b2b547940210bd27e481e36d439a</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1302556318</payload_hash>
+        <record_name>x_131797_cserver_0_capplication.x_131797_cserver_0.admin</record_name>
+        <reverted_from/>
+        <source>4b8d3afd47940210bd27e481e36d43ea</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-12 15:00:57</sys_created_on>
+        <sys_id>bf8dbafd47940210bd27e481e36d43af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d9dd5e50e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-12 15:00:57</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>4bec3e7d4294021002447f05e435fecc</update_guid>
+        <update_guid_history>4bec3e7d4294021002447f05e435fecc:1302556318,0e2d36bdff940210cb644894b412a7b4:-259270763,4bec3e7d4294021002447f05e435fecc:1302556318</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_131797_cserver_0_capplication.x_131797_cserver_0.admin">ba570b8847e00210bd27e481e36d43df</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-19 15:30:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>8ccc121dc273423e9f433888e48cc624</sys_id>
+        <sys_metadata>cbec3e7d47940210bd27e481e36d43a5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_131797_cserver_0_capplication.x_131797_cserver_0.admin</sys_name>
+        <sys_package display_value="CserverApp" source="x_131797_cserver_0">2417b2b547940210bd27e481e36d4392</sys_package>
+        <sys_parent display_value="">83ec3e7d47940210bd27e481e36d43a3</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="CserverApp">2417b2b547940210bd27e481e36d4392</sys_scope>
+        <sys_scope_delete display_value="">479334d5d79e4009b705e848378cf471</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_cbec3e7d47940210bd27e481e36d43a5</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_cbec3e7d47940210bd27e481e36d43a5">bf8dbafd47940210bd27e481e36d43af</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-19 15:30:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

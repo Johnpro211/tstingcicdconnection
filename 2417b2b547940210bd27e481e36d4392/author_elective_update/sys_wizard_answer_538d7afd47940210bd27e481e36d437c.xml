@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Capplication</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Capplication</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Base Configuration Item" name="Base Configuration Item">822c08acd9313110cedf7dffddb48f8c</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-12 15:00:55</sys_created_on>
+        <sys_id>538d7afd47940210bd27e481e36d437c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Capplication</sys_name>
+        <sys_package display_value="CserverApp" source="x_131797_cserver_0">2417b2b547940210bd27e481e36d4392</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CserverApp">2417b2b547940210bd27e481e36d4392</sys_scope>
+        <sys_update_name>sys_wizard_answer_538d7afd47940210bd27e481e36d437c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-12 15:00:55</sys_updated_on>
+        <table/>
+        <target_url>x_131797_cserver_0_capplication.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CserverApp">2417b2b547940210bd27e481e36d4392</application>
+        <file_path/>
+        <instance_id>3876ed28db4a71d4caf99027c596197b</instance_id>
+        <instance_name>dev190685</instance_name>
+        <name>sys_wizard_answer_538d7afd47940210bd27e481e36d437c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Capplication</answer><button_label/><dependent_value/><element/><name>Capplication</name><next_question/><order>100</order><payload_name/><question display_value="Base Configuration Item" name="Base Configuration Item">822c08acd9313110cedf7dffddb48f8c</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-12 15:00:55</sys_created_on><sys_id>538d7afd47940210bd27e481e36d437c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Capplication</sys_name><sys_package display_value="CserverApp" source="x_131797_cserver_0">2417b2b547940210bd27e481e36d4392</sys_package><sys_policy/><sys_scope display_value="CserverApp">2417b2b547940210bd27e481e36d4392</sys_scope><sys_update_name>sys_wizard_answer_538d7afd47940210bd27e481e36d437c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-12 15:00:55</sys_updated_on><table/><target_url>x_131797_cserver_0_capplication.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>924902315</payload_hash>
+        <record_name>Capplication</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-19 15:30:14</sys_created_on>
+        <sys_id>95670f8847e00210bd27e481e36d435c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18dc1fd3b3b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-19 15:30:14</sys_updated_on>
+        <type>Answer</type>
+        <update_guid>55670f88b4e002100cc123c16b40b75c</update_guid>
+        <update_guid_history>55670f88b4e002100cc123c16b40b75c:924902315</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-19 15:30:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>501b3c7f6ea24fbf93e86c33f0a8c4c9</sys_id>
+        <sys_metadata>538d7afd47940210bd27e481e36d437c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Capplication</sys_name>
+        <sys_package display_value="CserverApp" source="x_131797_cserver_0">2417b2b547940210bd27e481e36d4392</sys_package>
+        <sys_parent display_value="Base Configuration Item">822c08acd9313110cedf7dffddb48f8c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="CserverApp">2417b2b547940210bd27e481e36d4392</sys_scope>
+        <sys_scope_delete display_value="">479334d5d79e4009b705e848378cf471</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_538d7afd47940210bd27e481e36d437c</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_538d7afd47940210bd27e481e36d437c">95670f8847e00210bd27e481e36d435c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-19 15:30:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
