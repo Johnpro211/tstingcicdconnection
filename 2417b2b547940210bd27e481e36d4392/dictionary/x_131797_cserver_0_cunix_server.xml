@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3e0956c447200210bd27e481e36d4350" extends="cmdb_ci_unix_server" label="CUnix_Server" max_length="40" name="x_131797_cserver_0_cunix_server" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

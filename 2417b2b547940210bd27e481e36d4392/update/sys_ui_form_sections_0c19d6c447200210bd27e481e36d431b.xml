@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="0c19d6c447200210bd27e481e36d431b" sys_domain="global" table="x_131797_cserver_0_cunix_server" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-19 12:07:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1819d6c447200210bd27e481e36d4335</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_131797_cserver_0_cunix_server" name="x_131797_cserver_0_cunix_server" sys_domain="global" view="2713005f537320100764ddeeff7b1269">0c19d6c447200210bd27e481e36d431b</sys_ui_form>
+            <sys_ui_section caption="Key Attributes" display_value="Key Attributes" name="x_131797_cserver_0_cunix_server" sys_domain="global" view="2713005f537320100764ddeeff7b1269">9019d6c447200210bd27e481e36d432e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-19 12:07:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-19 12:07:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5819d6c447200210bd27e481e36d4323</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_131797_cserver_0_cunix_server" name="x_131797_cserver_0_cunix_server" sys_domain="global" view="2713005f537320100764ddeeff7b1269">0c19d6c447200210bd27e481e36d431b</sys_ui_form>
+            <sys_ui_section caption="Configuration Attributes" display_value="Configuration Attributes" name="x_131797_cserver_0_cunix_server" sys_domain="global" view="2713005f537320100764ddeeff7b1269">c019d6c447200210bd27e481e36d431e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-19 12:07:49</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-19 12:07:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9019d6c447200210bd27e481e36d4328</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_131797_cserver_0_cunix_server" name="x_131797_cserver_0_cunix_server" sys_domain="global" view="2713005f537320100764ddeeff7b1269">0c19d6c447200210bd27e481e36d431b</sys_ui_form>
+            <sys_ui_section caption="Discovery Attributes" display_value="Discovery Attributes" name="x_131797_cserver_0_cunix_server" sys_domain="global" view="2713005f537320100764ddeeff7b1269">9c19d6c447200210bd27e481e36d4323</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-19 12:07:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-19 12:07:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5c19d6c447200210bd27e481e36d432d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_131797_cserver_0_cunix_server" name="x_131797_cserver_0_cunix_server" sys_domain="global" view="2713005f537320100764ddeeff7b1269">0c19d6c447200210bd27e481e36d431b</sys_ui_form>
+            <sys_ui_section caption="Operational Attributes" display_value="Operational Attributes" name="x_131797_cserver_0_cunix_server" sys_domain="global" view="2713005f537320100764ddeeff7b1269">d419d6c447200210bd27e481e36d4328</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-19 12:07:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-19 12:07:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dc19d6c447200210bd27e481e36d4338</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_131797_cserver_0_cunix_server" name="x_131797_cserver_0_cunix_server" sys_domain="global" view="2713005f537320100764ddeeff7b1269">0c19d6c447200210bd27e481e36d431b</sys_ui_form>
+            <sys_ui_section caption="Domain Separation Attributes" display_value="Domain Separation Attributes" name="x_131797_cserver_0_cunix_server" sys_domain="global" view="2713005f537320100764ddeeff7b1269">5c19d6c447200210bd27e481e36d4335</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-19 12:07:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-19 12:07:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9419d6c447200210bd27e481e36d433e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_131797_cserver_0_cunix_server" name="x_131797_cserver_0_cunix_server" sys_domain="global" view="2713005f537320100764ddeeff7b1269">0c19d6c447200210bd27e481e36d431b</sys_ui_form>
+            <sys_ui_section caption="More Attributes" display_value="More Attributes" name="x_131797_cserver_0_cunix_server" sys_domain="global" view="2713005f537320100764ddeeff7b1269">1419d6c447200210bd27e481e36d4339</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-19 12:07:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_131797_cserver_0_cunix_server</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-19 12:07:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0c19d6c447200210bd27e481e36d431b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_131797_cserver_0_cunix_server</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="CserverApp" source="x_131797_cserver_0">2417b2b547940210bd27e481e36d4392</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CserverApp">2417b2b547940210bd27e481e36d4392</sys_scope>
+            <sys_update_name>sys_ui_form_sections_0c19d6c447200210bd27e481e36d431b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-19 12:07:49</sys_updated_on>
+            <sys_user/>
+            <view display_value="CMDB - Workspace" name="cmdb_browse">2713005f537320100764ddeeff7b1269</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
